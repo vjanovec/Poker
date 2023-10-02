@@ -11,4 +11,7 @@ This is my first experience working on a larger personal project in Java. Projec
 More projects can be seen [here](https://github.com/vjanovec/java-bootcamp)
 
 My very first diagram attempt (i was 16 at that time okay? :) )
+<br></br>
+![PokerLog](https://github.com/vjanovec/poker/blob/master/poker_log.png?raw=true)
+<br></br>
 ![Poker](https://github.com/vjanovec/poker/blob/master/poker.png?raw=true)
